@@ -1,4 +1,4 @@
-# aws-scripts
+# AWS Scripts
 ###### Collection of small scripts for various AWS purposes
 
 # AWS Regions  
