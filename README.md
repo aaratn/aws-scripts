@@ -19,7 +19,7 @@ I am also listing them here so that they can be handy
 |**Asia Pacific (Sydney)**|ap-southeast-2|
 |**South America (Sao Paulo)**|sa-east-1|
 
-##findawsinstanceid.py
+##findec2instanceid.py
 ###### This script can be used to find the EC2 Instance id from the name tag.
 **Example Usage**:  
 ```findec2instanceid.py -a <your aws access key> -s <your aws secret key> -r <aws-region> -n <nametag of the ec2 instance```
